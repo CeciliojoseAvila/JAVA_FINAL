@@ -1,0 +1,5 @@
+package com.bolsadeideas.springboot.web.appmodels;
+
+public class Usuario {
+
+}

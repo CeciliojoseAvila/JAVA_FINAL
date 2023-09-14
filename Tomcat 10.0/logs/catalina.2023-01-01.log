@@ -1,0 +1,43 @@
+01-Jan-2023 20:44:41.590 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.0.27
+01-Jan-2023 20:44:41.603 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Oct 3 2022 14:18:31 UTC
+01-Jan-2023 20:44:41.603 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.0.27.0
+01-Jan-2023 20:44:41.603 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+01-Jan-2023 20:44:41.603 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+01-Jan-2023 20:44:41.604 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+01-Jan-2023 20:44:41.604 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot
+01-Jan-2023 20:44:41.604 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       17.0.5+8
+01-Jan-2023 20:44:41.604 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Eclipse Adoptium
+01-Jan-2023 20:44:41.604 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Program Files\Apache Software Foundation\Tomcat 10.0
+01-Jan-2023 20:44:41.604 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Program Files\Apache Software Foundation\Tomcat 10.0
+01-Jan-2023 20:44:41.621 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Jan-2023 20:44:41.622 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+01-Jan-2023 20:44:41.622 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+01-Jan-2023 20:44:41.622 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Jan-2023 20:44:41.622 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Jan-2023 20:44:41.622 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\logging.properties
+01-Jan-2023 20:44:41.622 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Jan-2023 20:44:41.623 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dhttp.nonProxyHosts=localhost|127.0.0.1|CECILIO
+01-Jan-2023 20:44:41.623 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+01-Jan-2023 20:44:41.623 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Jan-2023 20:44:41.623 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+01-Jan-2023 20:44:41.623 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+01-Jan-2023 20:44:41.624 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+01-Jan-2023 20:44:41.664 INFORMACIÓN [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 10.0\temp
+01-Jan-2023 20:44:41.677 INFORMACIÓN [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-17.0.5.8-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;D:\NetBeans-15\netbeans\bin;C:\Program Files\Apache Software Foundation\Tomcat 10.0\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files\NetBeans-16;C:\Program Files\NetBeans-16\netbeans\bin;C:\Users\GERMAN\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\GERMAN\AppData\Local\Programs\Python\Python310\;C:\Users\GERMAN\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\Users\GERMAN\AppData\Local\GitHubDesktop\bin;C:\Users\GERMAN\AppData\Roaming\npm;C:\Program Files\Java\jdk-19\bin;;.]
+01-Jan-2023 20:44:42.410 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+01-Jan-2023 20:44:42.482 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.load Server initialization in [1591] milliseconds
+01-Jan-2023 20:44:42.688 INFORMACIÓN [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+01-Jan-2023 20:44:42.688 INFORMACIÓN [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.27]
+01-Jan-2023 20:44:42.715 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs] de la aplicación web
+01-Jan-2023 20:44:43.791 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs] has finished in [1.070] ms
+01-Jan-2023 20:44:43.792 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager] de la aplicación web
+01-Jan-2023 20:44:44.004 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager] has finished in [211] ms
+01-Jan-2023 20:44:44.004 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT] de la aplicación web
+01-Jan-2023 20:44:44.079 INFORMACIÓN [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT] has finished in [72] ms
+01-Jan-2023 20:44:44.085 INFORMACIÓN [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Jan-2023 20:44:44.267 INFORMACIÓN [main] org.apache.catalina.startup.Catalina.start Server startup in [1784] milliseconds
+01-Jan-2023 21:16:14.834 INFORMACIÓN [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto []
+01-Jan-2023 21:47:51.156 GRAVE [main] org.apache.catalina.startup.Catalina.stopServer No se ha configurado puerto de apagado. Apagando el servidor a través de señal de SO. Servidor no apagado.
+01-Jan-2023 21:51:22.063 GRAVE [main] org.apache.catalina.startup.Catalina.stopServer No se ha configurado puerto de apagado. Apagando el servidor a través de señal de SO. Servidor no apagado.
+01-Jan-2023 21:52:10.604 GRAVE [main] org.apache.catalina.startup.Catalina.stopServer No se ha configurado puerto de apagado. Apagando el servidor a través de señal de SO. Servidor no apagado.

@@ -1,0 +1,81 @@
+22-Dec-2022 12:10:12.910 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.0.27
+22-Dec-2022 12:10:12.918 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Oct 3 2022 14:18:31 UTC
+22-Dec-2022 12:10:12.999 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.0.27.0
+22-Dec-2022 12:10:13.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+22-Dec-2022 12:10:13.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+22-Dec-2022 12:10:13.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+22-Dec-2022 12:10:13.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-19
+22-Dec-2022 12:10:13.000 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       19.0.1+10-21
+22-Dec-2022 12:10:13.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+22-Dec-2022 12:10:13.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Program Files\Apache Software Foundation\Tomcat 10.0
+22-Dec-2022 12:10:13.001 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Program Files\Apache Software Foundation\Tomcat 10.0
+22-Dec-2022 12:10:13.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+22-Dec-2022 12:10:13.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+22-Dec-2022 12:10:13.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 10.0\temp
+22-Dec-2022 12:10:13.099 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Dec-2022 12:10:13.100 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\logging.properties
+22-Dec-2022 12:10:13.101 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Dec-2022 12:10:13.102 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+22-Dec-2022 12:10:13.103 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Dec-2022 12:10:13.105 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             exit
+22-Dec-2022 12:10:13.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             abort
+22-Dec-2022 12:10:13.107 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Xms128m
+22-Dec-2022 12:10:13.108 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Xmx256m
+22-Dec-2022 12:10:13.142 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Program Files\Apache Software Foundation\Tomcat 10.0\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-19\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;D:\NetBeans-15\netbeans\bin;C:\Program Files\Apache Software Foundation\Tomcat 10.0\bin;C:\Users\GERMAN\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\GERMAN\AppData\Local\Programs\Python\Python310\;C:\Users\GERMAN\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\Users\GERMAN\AppData\Local\GitHubDesktop\bin;C:\Users\GERMAN\AppData\Roaming\npm;.]
+22-Dec-2022 12:10:13.832 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+22-Dec-2022 12:10:13.887 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1379] milliseconds
+22-Dec-2022 12:10:14.143 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+22-Dec-2022 12:10:14.144 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.27]
+22-Dec-2022 12:10:14.168 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs] de la aplicación web
+22-Dec-2022 12:10:14.864 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs] has finished in [691] ms
+22-Dec-2022 12:10:14.865 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager] de la aplicación web
+22-Dec-2022 12:10:14.983 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager] has finished in [118] ms
+22-Dec-2022 12:10:14.984 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT] de la aplicación web
+22-Dec-2022 12:10:15.046 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT] has finished in [62] ms
+22-Dec-2022 12:10:15.053 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Dec-2022 12:10:15.339 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1449] milliseconds
+22-Dec-2022 12:12:32.109 INFO [Thread-2] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+22-Dec-2022 12:12:32.121 INFO [Thread-2] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+22-Dec-2022 12:12:32.171 INFO [Thread-2] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+22-Dec-2022 12:12:32.177 INFO [Thread-2] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+22-Dec-2022 22:52:58.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.0.27
+22-Dec-2022 22:52:58.820 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Oct 3 2022 14:18:31 UTC
+22-Dec-2022 22:52:58.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.0.27.0
+22-Dec-2022 22:52:58.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+22-Dec-2022 22:52:58.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+22-Dec-2022 22:52:58.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+22-Dec-2022 22:52:58.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-19
+22-Dec-2022 22:52:58.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       19.0.1+10-21
+22-Dec-2022 22:52:58.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+22-Dec-2022 22:52:58.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Program Files\Apache Software Foundation\Tomcat 10.0
+22-Dec-2022 22:52:58.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Program Files\Apache Software Foundation\Tomcat 10.0
+22-Dec-2022 22:52:58.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Dec-2022 22:52:58.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+22-Dec-2022 22:52:58.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+22-Dec-2022 22:52:58.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Dec-2022 22:52:58.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Dec-2022 22:52:58.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\Tomcat 10.0\conf\logging.properties
+22-Dec-2022 22:52:58.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Dec-2022 22:52:58.859 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-CECILIO
+22-Dec-2022 22:52:58.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+22-Dec-2022 22:52:58.860 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+22-Dec-2022 22:52:58.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+22-Dec-2022 22:52:58.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+22-Dec-2022 22:52:58.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+22-Dec-2022 22:52:58.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\Tomcat 10.0\temp
+22-Dec-2022 22:52:58.963 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: [C:\Program Files\Java\jdk-19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\MongoDB\Server\6.0\bin;C:\Program Files\Java\jdk-19\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;D:\NetBeans-15\netbeans\bin;C:\Program Files\Apache Software Foundation\Tomcat 10.0\bin;C:\Users\GERMAN\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\GERMAN\AppData\Local\Programs\Python\Python310\;C:\Users\GERMAN\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\Users\GERMAN\AppData\Local\GitHubDesktop\bin;C:\Users\GERMAN\AppData\Roaming\npm;C:\Program Files\Java\jdk-19\bin;;.]
+22-Dec-2022 22:53:00.064 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+22-Dec-2022 22:53:00.142 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2079] milliseconds
+22-Dec-2022 22:53:00.383 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+22-Dec-2022 22:53:00.384 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.27]
+22-Dec-2022 22:53:00.411 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs] de la aplicación web
+22-Dec-2022 22:53:01.465 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\docs] has finished in [1.047] ms
+22-Dec-2022 22:53:01.466 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager] de la aplicación web
+22-Dec-2022 22:53:01.703 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\manager] has finished in [237] ms
+22-Dec-2022 22:53:01.704 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT] de la aplicación web
+22-Dec-2022 22:53:01.818 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Program Files\Apache Software Foundation\Tomcat 10.0\webapps\ROOT] has finished in [114] ms
+22-Dec-2022 22:53:01.824 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Dec-2022 22:53:02.005 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1856] milliseconds
+22-Dec-2022 23:42:30.125 SEVERE [main] org.apache.catalina.startup.Catalina.stopServer No se ha configurado puerto de apagado. Apagando el servidor a través de señal de SO. Servidor no apagado.

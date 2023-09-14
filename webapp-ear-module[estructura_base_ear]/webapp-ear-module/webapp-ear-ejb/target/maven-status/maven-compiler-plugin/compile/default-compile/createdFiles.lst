@@ -1,0 +1,6 @@
+org\cavila\webapp\ear\ejb\services\UsuarioService.class
+org\cavila\webapp\ear\ejb\entities\Usuario.class
+org\cavila\webapp\ear\ejb\repositories\UsuarioRepository.class
+org\cavila\webapp\ear\ejb\services\UsuarioServiceImpl.class
+org\cavila\webapp\ear\ejb\ProducerResources.class
+org\cavila\webapp\ear\ejb\repositories\UsuarioRepositoryImpl.class

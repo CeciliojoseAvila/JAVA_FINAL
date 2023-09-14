@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es" xmlns="http://www.thymeleaf.org">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> Enviar parámetros del Request HTTP GET - URL </title>
+</head>
+
+<body>
+	<h1> Enviar parámetros del Request HTTP GET - URL </h1>
+
+	<ul>
+		<li>
+			<a href="@{/params/string(texto='Hola Cecilio')}">/params/string?texto=Hola Cecilio</a>
+		</li>
+		<li>
+			<a href="@{/params/string(texto='Qué tal Lesly!')}">/params/string?texto=Qué tal Lesly!</a>
+		</li>
+
+	</ul>
+
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+package com.bolsadeideas.springboot.di.appmodels.service;
+
+//import org.springframework.context.annotation.Primary;
+//import org.springframework.stereotype.Component;
+
+//@Primary
+//@Component("miServicioSimple")
+//implements IServicio
+
+public class MiServicio {
+
+	//@Override
+	public String operacion() {
+		return "ejecutando algún proceso importante ...";
+	}
+	
+}
+
+
